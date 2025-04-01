@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ImportarExportarExcel.exe.config
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ImportarExportarExcel.exe
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ImportarExportarExcel.pdb
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.dll
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.pdb
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.xml
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.Form1.resources
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.Properties.Resources.resources
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\Importar.E911ECDF.Up2Date
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.exe
+C:\Users\user\Desktop\ImportarExportarExcel\ImportarExportarExcel\obj\Debug\ImportarExportarExcel.pdb
